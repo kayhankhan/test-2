@@ -1,0 +1,21 @@
+h2 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(greenyellow, yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.b {
+  border: solid 2px red;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+  border-radius: 200%;
+  border: 2px solid black;
+}
+.im {
+  width: 80px;
+  height: 80px;
+  border-radius: 200%;
+}
